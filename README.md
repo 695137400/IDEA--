@@ -1,7 +1,7 @@
 #IDEA插件文件夹文件说明
-![](./IDEA/目录介绍.png)
 ### 文件夹：.IntelliJIdea
 这个文件夹是IDEA生成配置的地方，所有配置都会在这个文件夹里
+![](./IDEA/目录介绍.png)
 ### 文件夹：Git
 这个是Git的命令行版本，一个版本控制软件，这不是IDEA的插件，但是要在IDEA中使用git，就必须要有这个东西，必须在IDEA中指定一个文件为git.exe的文件才行
 ![](./IDEA/git配置.png)
