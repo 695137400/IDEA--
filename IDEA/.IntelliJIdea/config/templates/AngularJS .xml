@@ -1,0 +1,9 @@
+<templateSet group="AngularJS ">
+  <template name="$f" value="$scope.$functionName$ = function($args$) {&#10;    $END$&#10;};" description="Define a new $scope'd function (usually inside an AngularJS Controller). You can change the function name and arguments." toReformat="true" toShortenFQNames="true">
+    <variable name="functionName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="args" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XSL_TEXT" value="true" />
+    </context>
+  </template>
+</templateSet>

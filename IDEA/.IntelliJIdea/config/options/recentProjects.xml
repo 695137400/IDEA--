@@ -1,0 +1,78 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="D:/Apicloud" />
+        <option value="D:/Workspaces/MyApplication" />
+        <option value="D:/Workspaces/AndroidUtilCode" />
+        <option value="D:/Workspaces/B2C" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="D:/Apicloud" />
+      </list>
+    </option>
+    <option name="lastPath" value="D:/Apicloud" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="D:/Apicloud">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1510190890715" />
+              <option name="buildTimestamp" value="1503351294100" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Workspaces/AndroidUtilCode">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1509778877392" />
+              <option name="buildTimestamp" value="1503351247263" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Workspaces/B2C">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1509521986444" />
+              <option name="buildTimestamp" value="1503351278247" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Workspaces/MyApplication">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1509789546695" />
+              <option name="buildTimestamp" value="1503351280219" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WorkspacesGS/B2C">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1504331222789" />
+              <option name="buildTimestamp" value="1503351291531" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="D:/Workspaces" />
+  </component>
+</application>

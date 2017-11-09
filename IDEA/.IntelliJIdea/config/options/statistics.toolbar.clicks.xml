@@ -1,0 +1,32 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="Android.RunAndroidAvdManager@MainToolbar" count="1" />
+      <entry action="Android.RunAndroidSdkManager@MainToolbar" count="3" />
+      <entry action="AndroidConnectDebuggerAction@MainToolbar" count="1" />
+      <entry action="Debug@MainToolbar" count="4" />
+      <entry action="ExternalSystem.RefreshAllProjects@Gradle_View_Toolbar" count="31" />
+      <entry action="ExternalSystem.ShowSettings@Gradle_View_Toolbar" count="5" />
+      <entry action="FileChooser.Refresh@FileChooserDialog" count="7" />
+      <entry action="Rerun@RunnerToolbar" count="102" />
+      <entry action="Run@MainToolbar" count="6" />
+      <entry action="SaveAll@MainToolbar" count="3" />
+      <entry action="ShowProjectStructureSettings@MainToolbar" count="44" />
+      <entry action="ShowSettings@MainToolbar" count="16" />
+      <entry action="Stop@DebuggerToolbar" count="4" />
+      <entry action="Stop@RunnerToolbar" count="7" />
+      <entry action="Vcs.UpdateProject@MainToolbar" count="1" />
+      <entry action="com.intellij.execution.ui.actions.CloseAction@RunnerToolbar" count="4" />
+      <entry action="com.intellij.find.editorHeaderActions.NextOccurrenceAction@EditorToolbar" count="12" />
+      <entry action="com.intellij.ide.browsers.actions.BaseWebBrowserAction@ContextToolbar" count="7" />
+      <entry action="com.intellij.ide.errorTreeView.NewErrorTreeViewPanel$5@CompilerMessagesToolbar" count="29" />
+      <entry action="com.intellij.openapi.editor.actions.ScrollToTheEndToolbarAction@RunnerToolbar" count="2" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.actions.ToggleSourcesStateAction@ProjectStructureContentEntries" count="24" />
+      <entry action="com.intellij.profile.codeInspection.ui.SingleInspectionProfilePanel$4@SingleInspectionProfile" count="3" />
+      <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="24" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="37" />
+      <entry action="com.intellij.usages.impl.UsageViewImpl$CloseAction@UsageViewToolbar" count="1" />
+      <entry action="org.jetbrains.plugins.terminal.TerminalView$CloseSession@Terminal" count="3" />
+    </counts>
+  </component>
+</application>
